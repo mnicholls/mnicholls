@@ -1,6 +1,5 @@
 ### Mark Nicholls
 
-ICU physician and software geek.
 
 I design systems that sit at the intersection of medicine, AI, and operations — workforce optimization, intelligent memory architectures, and automation that removes friction from high-stakes environments.
 
